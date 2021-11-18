@@ -1,2 +1,2 @@
 # DSA
-Activities,assignments,projects on data science and analytics
+Activities,Assignments,Case studies,Projects on data science and analytics
